@@ -9,13 +9,7 @@ namespace Aula07Jogos
     class Program
     {
         static void Main(string[] args)
-        {
-
-
-
-        }
-
-        void Atv_Jogos01()
+        
         {
             // Programação orientada a objetes.
             
@@ -49,6 +43,7 @@ namespace Aula07Jogos
             Console.WriteLine("Perdeste. Boa sorte em me achar em Curaçao.");
 
             Console.ReadKey();
+
         }
     }
 }
